@@ -7,7 +7,7 @@ import Dashboard from "./pages/Dashboard";
 import ProtectedRoute from "./utils/ProtectedRoute";
 
 function App() {
-  return (
+  return ( 
     <Router>
       <Routes>
         {/* Public Route */}
