@@ -15,7 +15,6 @@ export default function AdminHeader(){
     return (
         <div className="linkDiv">
             <nav>
-            <Link to="/">Home</Link> |{" "}
             <Link to="/dashboard">Dashboard</Link> |{" "}       
             <Link to="/admin">Manage Users</Link> |{" "}
             <Link to="/add">Add Item</Link> |{" "}
